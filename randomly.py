@@ -27,3 +27,5 @@ if guess==num:
     print("Has adivinado")
 else:
     print("Se te acabaron las oportunidades")    
+
+    
